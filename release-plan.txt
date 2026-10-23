@@ -1,3 +1,4 @@
 medical device release test plan
 TC001:Sensor initialization - PASS
 TC002:Sensor calibration - PASS
+TC003:Sensor threashold  validation - PASS
